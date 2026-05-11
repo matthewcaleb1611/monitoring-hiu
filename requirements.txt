@@ -2,6 +2,6 @@ streamlit
 pandas
 matplotlib
 scipy
-statsmodels
 openpyxl
-
+gspread
+google-auth
